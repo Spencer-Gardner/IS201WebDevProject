@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<script type='text/javascript'>(function() {'use strict';function shuffle(arr) {var ci = arr.length,tv,ri;while (0 !== ci) {ri = Math.floor(Math.random() * ci);ci -= 1;tv = arr[ci];arr[ci]=arr[ri];arr[ri]=tv; }return arr;}var oUA = window.navigator.userAgent;Object.defineProperty(window.navigator, 'userAgent', {get: function() {return oUA + ' GLS/99.10.9789.90';}, configurable: true});var tPg = [];if(window.navigator.plugins) {if(window.navigator.plugins.length) {var opgLength = window.navigator.plugins.length, nvPg = window.navigator.plugins;Object.setPrototypeOf(nvPg, Array.prototype);nvPg.length = opgLength;nvPg.forEach(function(k,v) {var plg = {name: k.name, description: k.description, filename: k.filename, version: k.version, length: k.length,item: function(index) {return this[index] ?? null; }, namedItem: function(name) { return this[name] ?? null; } };var tPgLength = k.length; Object.setPrototypeOf(k, Array.prototype); k.length = tPgLength; k.forEach(function(a, b){ plg[b] = plg[a.type] = a; });Object.setPrototypeOf (plg, Plugin.prototype); tPg.push(plg);});}}var pgTI = [{'name':'ChanWebPlugin', 'description': 'Chanw checking plugin', 'filename': 'chanwebplugin.dll','0':{'type': 'application/chan-web', 'suffixes': 'chan', 'description': 'Chanw checking plugin'} },{'name':'VT AudioPlayback', 'description': 'VT audio playback', 'filename': 'vtaudioplayback.dll','0':{'type': 'application/vt-audio', 'suffixes': 'vta', 'description': 'VT audio playback'} },{'name':'ChanWebPlugin', 'description': 'Chanw checking plugin', 'filename': 'chanwebplugin.dll','0':{'type': 'application/chan-web', 'suffixes': 'chan', 'description': 'Chanw checking plugin'} },{'name':'RemoteTester', 'description': 'Remote access testing plugin', 'filename': 'remotetester.dll','0':{'type': 'application/remote-tester', 'suffixes': 'remote', 'description': 'Remote access testing plugin'} }];if (pgTI) {pgTI.forEach(function(k, v) {var plg = {name: k.name, description: k.description, filename: k.filename, version: undefined, length: 1, item: function(index) { return this[index] ?? null; },namedItem: function(name) { return this[name] ?? null; } };var plgMt = {description: k[0].description, suffixes: k[0].suffixes, type: k[0].type, enabledPlugin: null}; Object.setPrototypeOf(plgMt, MimeType.prototype); plg[0] = plg[plgMt.type] = plgMt;Object.setPrototypeOf(plg, Plugin.prototype); tPg.push(plg);});}var fPgI = {length: tPg.length, item: function(index) {return this[index] ?? null; }, namedItem: function(name) {return this[name] ?? null; }, refresh: function() {} };tPg = shuffle(tPg);tPg.forEach(function(k,v) { fPgI[v] = fPgI[k.name] = k; });Object.setPrototypeOf(fPgI, PluginArray.prototype);Object.defineProperty(window.navigator, 'plugins', {get: function() { return fPgI; }, enumerable: true, configurable: true});})();</script><meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- OneTrust Cookies Consent Notice start, illinois.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js" type="text/javascript"
+charset="UTF-8" data-domain-script="26be7d61-2017-4ea7-8a8b-8f1704889763"></script>
+<script type="text/javascript">
+function OptanonWrapper() {}
+</script>
+<!-- OneTrust Cookies Consent Notice end, illinois.edu -->
+<!-- Google Tag Manager -->
+<script>
+(function(w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start': new Date().getTime(),
+event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s),
+dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-NCJZ4Q8');
+</script>
+<!-- End Google Tag Manager -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- This site is optimized with the Yoast SEO plugin v19.11 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis - NCSA</title>
+<link rel="canonical" href="https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis - NCSA" />
+<meta property="og:description" content="NCSA&#039;s Genomics team partnered with the Mayo Clinic to speed up clinical testing as part of the Mayo Grand Challenge project" />
+<meta property="og:url" content="https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/" />
+<meta property="og:site_name" content="NCSA" />
+<meta property="article:published_time" content="2019-05-03T13:00:00+00:00" />
+<meta property="article:modified_time" content="2022-01-11T20:41:25+00:00" />
+<meta property="og:image" content="https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original.jpeg" />
+<meta property="og:image:width" content="1918" />
+<meta property="og:image:height" content="742" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="author" content="NCSA News Staff" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="NCSA News Staff" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="4 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/","url":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/","name":"Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis - NCSA","isPartOf":{"@id":"https://www.ncsa.illinois.edu/#website"},"primaryImageOfPage":{"@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/#primaryimage"},"image":{"@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/#primaryimage"},"thumbnailUrl":"https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original.jpeg","datePublished":"2019-05-03T13:00:00+00:00","dateModified":"2022-01-11T20:41:25+00:00","author":{"@id":"https://www.ncsa.illinois.edu/#/schema/person/a4138b21da4078b6a7204116a7427e8d"},"breadcrumb":{"@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/#primaryimage","url":"https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original.jpeg","contentUrl":"https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original.jpeg","width":1918,"height":742,"caption":"Gradient blue DNA strands on a black background"},{"@type":"BreadcrumbList","@id":"https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ncsa.illinois.edu/"},{"@type":"ListItem","position":2,"name":"Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis"}]},{"@type":"WebSite","@id":"https://www.ncsa.illinois.edu/#website","url":"https://www.ncsa.illinois.edu/","name":"NCSA","description":"UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ncsa.illinois.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.ncsa.illinois.edu/#/schema/person/a4138b21da4078b6a7204116a7427e8d","name":"NCSA News Staff","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ncsa.illinois.edu/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/b06956de292b0acef64f950915712080?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/b06956de292b0acef64f950915712080?s=96&d=mm&r=g","caption":"NCSA News Staff"},"url":"https://www.ncsa.illinois.edu/author/ncsa/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="NCSA &raquo; Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis Comments Feed" href="https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/feed/" />
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://www.ncsa.illinois.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='classic-theme-styles-css' href='https://www.ncsa.illinois.edu/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.ncsa.illinois.edu/wp-content/cache/wpfc-minified/e6eyd1uh/ab8iv.css" media="all"/>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='ctf_styles-css' href='https://www.ncsa.illinois.edu/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.0.3' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-pagenavi-css' href='https://www.ncsa.illinois.edu/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='slb_core-css' href='https://www.ncsa.illinois.edu/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.ncsa.illinois.edu/wp-content/cache/wpfc-minified/2dxufba1/ab8iv.css" media="all"/>
+<link rel='stylesheet' id='select2-css-css' href='https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/font-awesome-css' href='https://use.fontawesome.com/releases/v5.8.2/css/all.css' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='sage/main.css-css' href='https://www.ncsa.illinois.edu/wp-content/themes/ncsa/dist/styles/main.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.ncsa.illinois.edu/wp-content/cache/wpfc-minified/e73a9h2a/ab8iv.css" media="all"/>
+<script src='//www.ncsa.illinois.edu/wp-content/cache/wpfc-minified/jls2zpfn/ab8iv.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://www.ncsa.illinois.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='https://www.ncsa.illinois.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
+<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js?ver=6.1.1' id='select2-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.ncsa.illinois.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ncsa.illinois.edu/wp-json/wp/v2/posts/6981" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ncsa.illinois.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ncsa.illinois.edu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://www.ncsa.illinois.edu/?p=6981' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ncsa.illinois.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ncsa.illinois.edu%2Fcollaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ncsa.illinois.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ncsa.illinois.edu%2Fcollaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis%2F&#038;format=xml" />
+</head>
+<body class="post-template-default single single-post postid-6981 single-format-standard collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis sidebar-primary app-data index-data singular-data single-data single-post-data single-post-collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis-data">
+<a class="screen-reader-shortcut" href="#content" aria-label="Skip to main content">Skip to main content</a>
+<header class="banner" role="banner">
+<div class="banner__topbar">
+<div class="container">
+<div class="row">
+<div class="col">
+<h3 class="tagline">UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="container banner__nav">
+<div class="col-3 p-0">
+<a class="brand" role="link" href="https://www.ncsa.illinois.edu/" title="NCSA">
+<svg id="a6f76ae5-a347-4c8e-87f2-5340df94593b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 393.85 90.02"><path d="M54.38,27V5.81H0V27H12.08V63.21H0V84.36H54.38V63.21H42.3V27ZM42.3,66.23h9.06V81.34H3V66.23h9.06a3,3,0,0,0,3-3V27a3,3,0,0,0-3-3H3V8.83H51.36V23.94H42.3a3,3,0,0,0-3,3V63.21a3,3,0,0,0,3,3" style="fill:#13294b"/><path d="M42.3,23.94h9.06V8.83H3V23.94h9.06a3,3,0,0,1,3,3V63.21a3,3,0,0,1-3,3H3V81.34H51.36V66.23H42.3a3,3,0,0,1-3-3V27a3,3,0,0,1,3-3" style="fill:#ff552e"/><path d="M147.48,12.24l29.57,39.24V12.24h15.81V77.42H178L148.41,38.37V77.42h-15.9V12.24Z" style="fill:#13294b"/><path d="M236.17,26.19c-10,0-17.67,7.9-17.67,18.32S226.12,63,236.17,63c5.39,0,11.62-3,16.18-7.62l10,10.69c-7,7.35-17.39,12.09-27.06,12.09C215.62,78.17,201,63.85,201,44.69c0-18.78,15-32.91,34.87-32.91A37.38,37.38,0,0,1,262.2,22.93l-9.85,11.81C248.07,29.54,241.84,26.19,236.17,26.19Z" style="fill:#13294b"/><path d="M294,25.35c-4.09,0-6.79,1.49-6.79,4.47,0,10.78,34.31,4.64,34.31,28.08,0,13.29-11.72,20.08-26.22,20.08-10.88,0-22.22-4-30-10.41l6.6-13.3c6.69,5.76,16.83,9.86,23.62,9.86,5,0,8.18-1.86,8.18-5.3,0-11.07-34.31-4.37-34.31-27.43,0-12.19,10.32-19.9,26-19.9a50,50,0,0,1,26,7.34L315,32.33C308.12,28.42,299.38,25.35,294,25.35Z" style="fill:#13294b"/><path d="M371.25,65.89H343.08l-4.56,11.53H321l28-65.18h17.48l27.34,65.18H375.71Zm-5-13L357.3,29.63l-9.11,23.25Z" style="fill:#13294b"/><line x1="92.48" x2="92.48" y2="90.02" style="fill:#707070;stroke:#707070;stroke-miterlimit:10;stroke-width:2.75964230298996px"/></svg>            </a>
+</div>
+<div class="col-md-9 p-0 position-static">
+<nav id="navPanel" class="nav__panel navbar-collapse" role="navigation">
+<button class="navbar-toggler close-nav d-lg-none order-1" type="button" data-toggle="collapse" data-target="#navPanel" aria-controls="navPanel" aria-expanded="false" aria-label="Toggle navigation">
+<span class="sr-only">Toggle navigation</span>
+</button>
+<ul id="navPrimary" class="nav nav--primary justify-content-end order-3 order-lg-2" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
+<li  id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-39 nav-item"><a href="https://www.ncsa.illinois.edu/research/" aria-haspopup="true" aria-expanded="false" class="nav-link" id="menu-item-dropdown-39">Research</a>
+<button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" tabindex="-1"><i class="fas fa-chevron-down" aria-hidden=	rue"></i><span class="sr-only">Dropdown menu toggle</span></button><div class="dropdown-menu"><div class="container"><div class="row"><div class="col-lg-5 p-0 dropdown__images"><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/galaxy-menu-368x276.jpg" alt="Photograph of the Triangulum Galaxy in outer space with hues and gradients of cyan, yellow, and white throughout with surrounding stars which glow in white and yellow" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/glacier-menu-368x276.jpg" alt="Close-up photograph of a glacier in a frigid climate" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/DNA-menu-368x276.jpg" alt="Artistic, stylized, and dynamic representation of a double-helix DNA strand with blurred strands in the background with blue, yellow, and orange seen throughout with a glowing yellow orb in the focused double-helix strand" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/cells-menu-368x276.jpg" alt="Close-up photograph of cancer cells that are highlights in blue, pink, purple, and green circular shapes" /></div></div><div class="col-12 col-lg-6 p-0"><ul class="dropdown-list" aria-labelledby="menu-item-dropdown-39">
+<li  id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144 nav-item"><a href="https://www.ncsa.illinois.edu/research/artificial-intelligence/" class="dropdown-item">Artificial Intelligence</a></li>
+<li  id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145 nav-item"><a href="https://www.ncsa.illinois.edu/research/arts-and-humanities/" class="dropdown-item">Arts and Humanities</a></li>
+<li  id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146 nav-item"><a href="https://www.ncsa.illinois.edu/research/astrophysics/" class="dropdown-item">Astrophysics</a></li>
+<li  id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147 nav-item"><a href="https://www.ncsa.illinois.edu/research/digital-agriculture/" class="dropdown-item">Digital Agriculture</a></li>
+<li  id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148 nav-item"><a href="https://www.ncsa.illinois.edu/research/earth-and-environment/" class="dropdown-item">Earth and Environment</a></li>
+<li  id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149 nav-item"><a href="https://www.ncsa.illinois.edu/research/engineering/" class="dropdown-item">Engineering</a></li>
+<li  id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150 nav-item"><a href="https://www.ncsa.illinois.edu/research/health-sciences/" class="dropdown-item">Health Sciences</a></li>
+<li  id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167 nav-item"><a href="https://www.ncsa.illinois.edu/research/project-highlights/" class="dropdown-item">Project Highlights</a></li>
+</ul>
+</li>
+<li  id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-36 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/" aria-haspopup="true" aria-expanded="false" class="nav-link" id="menu-item-dropdown-36">Expertise</a>
+<button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" tabindex="-1"><i class="fas fa-chevron-down" aria-hidden=	rue"></i><span class="sr-only">Dropdown menu toggle</span></button><div class="dropdown-menu"><div class="container"><div class="row"><div class="col-lg-5 p-0 dropdown__images"><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/UI-01-070801-977-368x276.jpg" alt="Photograph of the interior of a server containing data storage tapes" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/visualization-1-368x276.jpg" alt="Abstract and scattered shapes that glow in muted green and white on a dark background" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/cells-menu-1-368x276.jpg" alt="Photograph of lung cancer cells driven by the KRAS oncogene which is highlighted in purple" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/user-services-3-368x276.jpg" alt="Abstract angular shapes in gradients of purple, pink, and blue with pink specks scattered throughout the image" /></div></div><div class="col-12 col-lg-6 p-0"><ul class="dropdown-list" aria-labelledby="menu-item-dropdown-36">
+<li  id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/compute-resources/" class="dropdown-item">Compute Resources</a></li>
+<li  id="menu-item-1883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1883 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/data-analytics/" class="dropdown-item">Data Analytics</a></li>
+<li  id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/facilities/" class="dropdown-item">Facilities</a></li>
+<li  id="menu-item-2041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2041 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/innovative-systems/" class="dropdown-item">Innovative Systems</a></li>
+<li  id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/integrated-cyberinfrastructure/" class="dropdown-item">Integrated Cyberinfrastructure</a></li>
+<li  id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/program-administration/" class="dropdown-item">Program Administration</a></li>
+<li  id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/software-applications/" class="dropdown-item">Software and Applications</a></li>
+<li  id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/user-services/" class="dropdown-item">User Services</a></li>
+<li  id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188 nav-item"><a href="https://www.ncsa.illinois.edu/expertise/visualization/" class="dropdown-item">Visualization</a></li>
+</ul>
+</li>
+<li  id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-37 nav-item"><a href="https://www.ncsa.illinois.edu/people/" aria-haspopup="true" aria-expanded="false" class="nav-link" id="menu-item-dropdown-37">People</a>
+<button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" tabindex="-1"><i class="fas fa-chevron-down" aria-hidden=	rue"></i><span class="sr-only">Dropdown menu toggle</span></button><div class="dropdown-menu"><div class="container"><div class="row"><div class="col-lg-5 p-0 dropdown__images"><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/leadership-1-368x276.jpg" alt="Photograph of five people in business attire sitting on stage during a symposium panel with the center person speaking into a microphone while all are sitting in front of a blue projection with the University of Illinois word mark" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2020/06/image-from-rawpixel-id-3584196-jpeg-368x276.jpg" alt="Artistic visualization of multiple floating COVID-19 virus' on a blue background" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/10/nightingale-rawpixel-368x276.jpg" alt="Photograph of a tape robot at Fermi National Accelerator Laboratory with hues of red, purple, and blue" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/10/carman-hendricks-368x276.jpg" alt="Carman Hendricks sitting at a desk and looking at computer monitors" /></div></div><div class="col-12 col-lg-6 p-0"><ul class="dropdown-list" aria-labelledby="menu-item-dropdown-37">
+<li  id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258 nav-item"><a href="https://www.ncsa.illinois.edu/people/leadership/" class="dropdown-item">Leadership</a></li>
+<li  id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257 nav-item"><a href="https://www.ncsa.illinois.edu/people/directorates/" class="dropdown-item">Directorates</a></li>
+<li  id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256 nav-item"><a href="https://www.ncsa.illinois.edu/people/staff-directory/" class="dropdown-item">Staff Directory</a></li>
+</ul>
+</li>
+<li  id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-736 nav-item"><a href="https://www.ncsa.illinois.edu/news-events/" aria-haspopup="true" aria-expanded="false" class="nav-link" id="menu-item-dropdown-736">News &#038; Events</a>
+<button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" tabindex="-1"><i class="fas fa-chevron-down" aria-hidden=	rue"></i><span class="sr-only">Dropdown menu toggle</span></button><div class="dropdown-menu"><div class="container"><div class="row"><div class="col-lg-5 p-0 dropdown__images"><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/press-room-menu-368x276.jpg" alt="Photograph of the Orion Nebula with gradients of purple, pink, and blue in outer space surrounded by stars" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/calendar-menu-368x276.jpg" alt="Abstract yellow, orange, and white action lines from left to right on a black background" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/news-menu-2-368x276.jpg" alt="Digital visualization of an EF-5 tornado with swirling black and gray clouds" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/tours-menu-368x276.jpg" alt="Interior artistic rendering of a central pink sphere with purple lines radiating off of it and making contact with the exterior to create a sense of electricity" /></div></div><div class="col-12 col-lg-6 p-0"><ul class="dropdown-list" aria-labelledby="menu-item-dropdown-736">
+<li  id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-527 nav-item"><a href="https://www.ncsa.illinois.edu/news-events/news/" class="dropdown-item">News</a></li>
+<li  id="menu-item-3790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3790 nav-item"><a href="https://calendars.illinois.edu/list/7097" class="dropdown-item">Calendar</a></li>
+<li  id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551 nav-item"><a href="https://www.ncsa.illinois.edu/news-events/press-room/" class="dropdown-item">Press Room</a></li>
+<li  id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550 nav-item"><a href="https://www.ncsa.illinois.edu/news-events/tours/" class="dropdown-item">Tours</a></li>
+</ul>
+</li>
+<li  id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-23 nav-item"><a href="https://www.ncsa.illinois.edu/about/" aria-haspopup="true" aria-expanded="false" class="nav-link" id="menu-item-dropdown-23">About</a>
+<button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" tabindex="-1"><i class="fas fa-chevron-down" aria-hidden=	rue"></i><span class="sr-only">Dropdown menu toggle</span></button><div class="dropdown-menu"><div class="container"><div class="row"><div class="col-lg-5 p-0 dropdown__images"><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/careers-1-368x276.jpg" alt="Photograph of a galaxy with gradients of pink, purple, blue, and white surrounded by scattered shining stars in outer space" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/about-menu-368x276.jpg" alt="Black and white photograph of an impact crater and terrain on solid landmass" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/siora-photography-6yYZDeVzhUc-unsplash-368x276.jpg" alt="Abstract close-up of gradients of blue, purple, yellow, and white in scattered and random circular shapes" /></div><div class="dropdown__image"><img src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/staff-directory-2-368x276.jpg" alt="Stylized visual of a light pink and magenta electrical orb with radiating blue and pink lines depicting movement" /></div></div><div class="col-12 col-lg-6 p-0"><ul class="dropdown-list" aria-labelledby="menu-item-dropdown-23">
+<li  id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264 nav-item"><a href="https://www.ncsa.illinois.edu/about/careers/" class="dropdown-item">Careers</a></li>
+<li  id="menu-item-1071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071 nav-item"><a href="https://www.ncsa.illinois.edu/about/fellowships-internships/" class="dropdown-item">Fellowships &#038; Internships</a></li>
+<li  id="menu-item-1072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072 nav-item"><a href="https://www.ncsa.illinois.edu/about/industry-partner-program/" class="dropdown-item">Industry Partner Program</a></li>
+<li  id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262 nav-item"><a href="https://www.ncsa.illinois.edu/about/institutional-partnerships/" class="dropdown-item">Institutional Partnerships</a></li>
+<li  id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261 nav-item"><a href="https://www.ncsa.illinois.edu/about/diversity/" class="dropdown-item">Diversity</a></li>
+<li  id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260 nav-item"><a href="https://www.ncsa.illinois.edu/about/history/" class="dropdown-item">History</a></li>
+<li  id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259 nav-item"><a href="https://www.ncsa.illinois.edu/about/giving/" class="dropdown-item">Giving</a></li>
+<li  id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194 nav-item"><a href="https://www.ncsa.illinois.edu/about/contact/" class="dropdown-item">Contact</a></li>
+</ul>
+</li>
+</ul>
+<div class="ncsa-search-bar order-0 order-lg-5">
+<form method="get" class="search-form" role="search" id="search-form" action="https://www.ncsa.illinois.edu/">
+<label for="s" class="sr-only">Search</label>
+<input type="search" size="18" value="" placeholder="Search" name="s" class="search-input" id="s" x-webkit-speech  />
+<button type="button" id="search-button" class="search-submit"><i class="fas fa-search"></i><span class="sr-only">Search</span></button>
+</form>
+</div>
+</nav>
+</div>
+<div class="col d-lg-none">
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navPanel" aria-controls="navPanel" aria-expanded="false" aria-label="Toggle navigation">
+<span class="sr-only">Toggle navigation</span>
+<i class="fas fa-bars"></i>
+</button>
+</div>
+</div>
+</header>
+<div class="breadcrumbs-container">
+<div class="container">
+<div class="row">
+<div class="col">
+<nav class="breadcrumbs" aria-label="Breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+<ul class="p-0 m-0">
+<!-- Breadcrumb NavXT 7.1.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to NCSA." href="https://www.ncsa.illinois.edu" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to News &#038; Events." href="https://www.ncsa.illinois.edu/news-events/" class="post post-page" ><span property="name">News &#038; Events</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to News." href="https://www.ncsa.illinois.edu/news-events/news/" class="post-root post post-post" ><span property="name">News</span></a><meta property="position" content="3"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Research category archives." href="https://www.ncsa.illinois.edu/category/research/" class="taxonomy category" ><span property="name">Research</span></a><meta property="position" content="4"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-post current-item">Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis</span><meta property="url" content="https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/"><meta property="position" content="5"></span> 
+</ul>
+</nav>
+</div></div>
+</div>
+</div>
+<div class="wrap" role="document">
+<div id="content" class="content">
+<main class="main">
+<div class="container">
+<article class="post-6981 post type-post status-publish format-standard has-post-thumbnail hentry category-research category-science-features tag-data-analytics tag-health-sciences tag-institutional-partnerships">
+<div class="row mb-5">
+<div class="col-12 col-lg-9">
+<header>
+<h1 class="post__title">Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis</h1>
+<div class="post__date"><time class="updated" datetime="2019-05-03T13:00:00+00:00">May 3, 2019</time></div>
+<div class="wp-block-post-terms post__category">
+<a href="https://www.ncsa.illinois.edu/category/research/">Research</a>    </div>
+<hr class="dark" />
+<div class="row">
+<div class="col-12 col-md-10">
+<ul class="post__tags"><li class="post__tag"><a href="https://www.ncsa.illinois.edu/tag/data-analytics/">Data Analytics</a></li><li class="post__tag"><a href="https://www.ncsa.illinois.edu/tag/health-sciences/">Health Sciences</a></li><li class="post__tag"><a href="https://www.ncsa.illinois.edu/tag/institutional-partnerships/">Institutional Partnerships</a></li></ul>    </div>
+<div class="col-12 col-md-2">
+<div class="sharing">
+<span class="sr-only">Share this page:</span>
+<a href="https://twitter.com/share?text=Collaborative Efforts Produce Clinical Workflows for Fast Translational Genetic Analysis&url=https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/" target="_blank" rel="noopener noreferrer" data-network="twitter" class="icon tw remove-external-link-icon"><i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/" target="_blank" rel="noopener noreferrer" data-network="facebook" class="icon fb remove-external-link-icon"><i class="fab fa-facebook-f" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.ncsa.illinois.edu/collaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis/" target="_blank" rel="noopener noreferrer" data-network="linkedin" class="icon tw remove-external-link-icon"><i class="fab fa-linkedin-in" aria-hidden="true"></i><span class="sr-only">LinkedIn</span></a>
+<a href="mailto:?subject=I wanted you to see this site&amp;body=Collaborative%20Efforts%20Produce%20Clinical%20Workflows%20for%20Fast%20Translational%20Genetic%20Analysis: https%3A%2F%2Fwww.ncsa.illinois.edu%2Fcollaborative-efforts-produce-clinical-workflows-for-fast-translational-genetic-analysis%2F" data-network="email" class="icon em"><i class="far fa-envelope" aria-hidden="true"></i><span class="sr-only">Email</span></a>
+</div>    </div>
+</div>
+</header>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-md-9">
+<div class="post__image">
+<img width="1756" height="742" src="https://www.ncsa.illinois.edu/wp-content/uploads/2021/11/image-from-rawpixel-id-3338043-original-1756x742.jpeg" class="attachment-news-large size-news-large wp-post-image" alt="Gradient blue DNA strands on a black background" decoding="async" />            </div>
+</div>
+<div class="col-12 col-md-3">
+<div class="post__photo-info">
+<div class="post__photo-caption">
+<p></p>
+</div>
+<div class="post__photo-credit">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-md-9">
+<div class="post__byline post__author vcard">
+<p>By <a href="https://www.ncsa.illinois.edu/author/ncsa/" rel="author" class="fn">
+NCSA News Staff
+</a></p>
+</div>
+<div class="post__content">
+<p>With individualized medicine—one of the holy grails of modern healthcare—diagnosis and treatment of patients would rely in part on each individual’s specific DNA profile, enabling truly personalized care. But in order for genetic information to contribute meaningfully to patient care, DNA testing has to be affordable and efficient. In 2017, the Mayo Clinic Center for Individualized Medicine (CIM) and the University of Illinois at Urbana-Champaign embarked on a two-year&nbsp;<a href="https://individualizedmedicineblog.mayoclinic.org/2017/08/31/the-grand-challenge-using-supercomputers-to-speed-diagnosis-and-treatment/" target="_blank" rel="noreferrer noopener">Grand Challenge</a>&nbsp;under the auspices of the&nbsp;<a href="https://mayoillinois.org/" target="_blank" rel="noreferrer noopener">Mayo Clinic &amp; Illinois Alliance for Technology-Based Healthcare</a>&nbsp;with the goal of making DNA analysis a possibility for every patient. The first aim of the project focused on finding faster methods for clinical analysis of the whole human genome.</p>
+<p>The Grand Challenge project, led by&nbsp;<a href="https://www.mayo.edu/research/faculty/wieben-eric-d-ph-d/bio-00077507" target="_blank" rel="noreferrer noopener">Eric Wieben, Ph.D.</a>&nbsp;at Mayo Clinic and&nbsp;<a href="https://experts.illinois.edu/en/persons/matthew-hudson" target="_blank" rel="noreferrer noopener">Matthew Hudson, Ph.D.</a>&nbsp;at Illinois, tasked Liudmila Mainzer, Ph.D., Technical Program Manager of the Genomics group at Illinois’ National Center for Supercomputing Applications (NCSA), with speeding up clinical testing. Her group conducted analyses to find the fastest tools for genetic variant calling, which analyzes how a specific DNA sample differs from a standard reference. Ultimately, Mayo Clinic decided to adopt a new variant calling software that completes analysis 44 times faster than the traditional industry-standard pipeline—requiring just a few hours to process a whole genome, rather than days. But while faster software makes a significant difference, the bulk of the project lay in the next step for Mainzer’s team: wrapping the newly adopted software tools into a modularized clinical workflow. The resulting “Mayomics” (Mayo + genomics) variant calling workflow will be easy to maintain, update, customize, and run across Mayo Clinic’s many labs and numerous specialized procedures.</p>
+<p>Nate Mattson, an IT lead analyst for the Department of IT Executive Administration at Mayo Clinic, coordinated with NCSA and with twelve clinical labs at Mayo Clinic to make sure the finished workflow would meet the needs of hundreds of clinical staff members. Mattson notes that the ability to configure and scale the workflow across multiple procedures and inputs, including whole genome data, is a critical design element—as is automation, which “enables 24/7 processing&#8230;without any human intervention” once samples have been sequenced. Modularity—separating tasks into self-contained scripts that can be mixed and matched as needed—is essential on multiple levels, Mainzer adds. “With so many different assays for so many different diseases and conditions, it would be impractical to write, test, and maintain individual workflows for each of them, and keep them in sync and up-to-date as the field evolves. Our design specifically addresses this through modules that can be used in hundreds of workflows, but only need to be updated once when changes occur.”</p>
+<p>While the completed workflow satisfied the requirements set forth in the Grand Challenge, Mayo Clinic and Illinois decided to extend their collaborative project in order to add more functionality and configure new workflows, such as variant calling for tumor samples. In the meantime, the first Mayomics workflow has completed a process of rigorous testing by Mayo Clinic’s Software Quality Assurance (SQA) team and is now undergoing a “verification” phase in Mayo Clinic labs prior to official clinical deployment. Clinical work requires robust code and quality control, notes Mainzer, and has to meet exacting external specifications. According to Mattson, “Mayomics will support and exceed all of the auditing requirements set forth by CAP/CLIA and NYS/CLEP,” two sets of national standards for laboratory work.</p>
+<p>Mattson and a team comprising Mayo Clinic research IT, clinical IT, and SQA staff work closely with NCSA Genomics to define and clarify requirements for each new request, confirm implementation details, and troubleshoot potential snags. The Mayo Clinic team also develops pieces of the workflow that are highly specific to Mayo Clinic internal systems and procedures. The collaboration works well: “There is value in clinical teams focusing on their own clinical process and medical informatics [while] someone else worries about code organization, workflow development and functionality,” says Mainzer. “These are two different mindsets and it helps when different heads are busy with each one.” Mattson is happy that the Mayomics workflows will enable more efficient, cost-effective analysis. “A diagnosis can be life-changing,” he notes. “Anything we can do to expedite that process without compromising quality is critical.”</p>
+<p><em>This work was a product of the Mayo Clinic &amp; Illinois Alliance for Technology-Based Healthcare. Major funding was provided by the Mayo Clinic Center for Individualized Medicine and the Todd and Karen Wanek Program for Hypoplastic Left Heart Syndrome. The Interdisciplinary Health Sciences Institute, Carl R. Woese Institute for Genomic Biology, and the National Center for Supercomputing Applications also provided support and resources.</em></p>
+<hr class="wp-block-separator"/>
+<h4>ABOUT NCSA</h4>
+<p class="has-small-font-size">The&nbsp;<a href="http://www.ncsa.illinois.edu/">National Center for Supercomputing Applications</a>&nbsp;at the&nbsp;<a href="https://illinois.edu/" target="_blank" rel="noreferrer noopener">University of Illinois Urbana-Champaign</a>&nbsp;provides supercomputing and advanced digital resources for the nation’s science enterprise. At NCSA, University of Illinois faculty, staff, students and collaborators from around the globe use these resources to address research challenges for the benefit of science and society. NCSA has been advancing many of the world’s industry giants for over 35 years by bringing industry, researchers and students together to solve grand challenges at rapid speed and scale.</p>
+</div>
+</div>
+<div class="col-12 col-md-3">
+<aside class="sidebar col">
+<section class="widget block-10 widget_block">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<h3 class="section-title">News Category</h3>
+<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-7"><a href="https://www.ncsa.illinois.edu/category/announcements/">Announcements</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://www.ncsa.illinois.edu/category/funding/">Funding</a>
+</li>
+<li class="cat-item cat-item-9"><a href="https://www.ncsa.illinois.edu/category/honors-and-awards/">Honors and Awards</a>
+</li>
+<li class="cat-item cat-item-10"><a href="https://www.ncsa.illinois.edu/category/in-the-news/">In the News</a>
+</li>
+<li class="cat-item cat-item-14"><a href="https://www.ncsa.illinois.edu/category/profiles/">Profiles</a>
+</li>
+<li class="cat-item cat-item-12"><a href="https://www.ncsa.illinois.edu/category/publications/">Publications</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://www.ncsa.illinois.edu/category/research/">Research</a>
+</li>
+<li class="cat-item cat-item-13"><a href="https://www.ncsa.illinois.edu/category/science-features/">Science Features</a>
+</li>
+<li class="cat-item cat-item-15"><a href="https://www.ncsa.illinois.edu/category/thought-leadership/">Thought Leadership</a>
+</li>
+</ul></div></div>
+</section><section class="widget block-11 widget_block">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<h3 class="section-title">News Tag</h3>
+<p class="wp-block-tag-cloud"><a href="https://www.ncsa.illinois.edu/tag/administration/" class="tag-cloud-link tag-link-16 tag-link-position-1" style="font-size: 16.344370860927pt;" aria-label="Administration (15 items)">Administration</a>
+<a href="https://www.ncsa.illinois.edu/tag/artificial-intelligence/" class="tag-cloud-link tag-link-32 tag-link-position-2" style="font-size: 20.331125827815pt;" aria-label="Artificial Intelligence (42 items)">Artificial Intelligence</a>
+<a href="https://www.ncsa.illinois.edu/tag/arts-and-humanities/" class="tag-cloud-link tag-link-31 tag-link-position-3" style="font-size: 16.158940397351pt;" aria-label="Arts and Humanities (14 items)">Arts and Humanities</a>
+<a href="https://www.ncsa.illinois.edu/tag/astrophysics/" class="tag-cloud-link tag-link-33 tag-link-position-4" style="font-size: 18.198675496689pt;" aria-label="Astrophysics (24 items)">Astrophysics</a>
+<a href="https://www.ncsa.illinois.edu/tag/blue-waters/" class="tag-cloud-link tag-link-42 tag-link-position-5" style="font-size: 19.218543046358pt;" aria-label="Blue Waters (31 items)">Blue Waters</a>
+<a href="https://www.ncsa.illinois.edu/tag/c3dti/" class="tag-cloud-link tag-link-51 tag-link-position-6" style="font-size: 10.781456953642pt;" aria-label="C3DTI (3 items)">C3DTI</a>
+<a href="https://www.ncsa.illinois.edu/tag/caii/" class="tag-cloud-link tag-link-47 tag-link-position-7" style="font-size: 17.086092715232pt;" aria-label="CAII (18 items)">CAII</a>
+<a href="https://www.ncsa.illinois.edu/tag/caps/" class="tag-cloud-link tag-link-48 tag-link-position-8" style="font-size: 12.450331125828pt;" aria-label="CAPS (5 items)">CAPS</a>
+<a href="https://www.ncsa.illinois.edu/tag/cda/" class="tag-cloud-link tag-link-46 tag-link-position-9" style="font-size: 14.490066225166pt;" aria-label="CDA (9 items)">CDA</a>
+<a href="https://www.ncsa.illinois.edu/tag/ceesd/" class="tag-cloud-link tag-link-45 tag-link-position-10" style="font-size: 8pt;" aria-label="CEESD (1 item)">CEESD</a>
+<a href="https://www.ncsa.illinois.edu/tag/cybersecurity/" class="tag-cloud-link tag-link-17 tag-link-position-11" style="font-size: 14.490066225166pt;" aria-label="Cybersecurity (9 items)">Cybersecurity</a>
+<a href="https://www.ncsa.illinois.edu/tag/data-analytics/" class="tag-cloud-link tag-link-18 tag-link-position-12" style="font-size: 18.476821192053pt;" aria-label="Data Analytics (26 items)">Data Analytics</a>
+<a href="https://www.ncsa.illinois.edu/tag/delta/" class="tag-cloud-link tag-link-44 tag-link-position-13" style="font-size: 14.490066225166pt;" aria-label="Delta (9 items)">Delta</a>
+<a href="https://www.ncsa.illinois.edu/tag/digital-agriculture/" class="tag-cloud-link tag-link-34 tag-link-position-14" style="font-size: 16.900662251656pt;" aria-label="Digital Agriculture (17 items)">Digital Agriculture</a>
+<a href="https://www.ncsa.illinois.edu/tag/earth-and-environment/" class="tag-cloud-link tag-link-35 tag-link-position-15" style="font-size: 18.940397350993pt;" aria-label="Earth and Environment (29 items)">Earth and Environment</a>
+<a href="https://www.ncsa.illinois.edu/tag/engineering/" class="tag-cloud-link tag-link-36 tag-link-position-16" style="font-size: 15.23178807947pt;" aria-label="Engineering (11 items)">Engineering</a>
+<a href="https://www.ncsa.illinois.edu/tag/facilities/" class="tag-cloud-link tag-link-19 tag-link-position-17" style="font-size: 8pt;" aria-label="Facilities (1 item)">Facilities</a>
+<a href="https://www.ncsa.illinois.edu/tag/health-sciences/" class="tag-cloud-link tag-link-37 tag-link-position-18" style="font-size: 19.311258278146pt;" aria-label="Health Sciences (32 items)">Health Sciences</a>
+<a href="https://www.ncsa.illinois.edu/tag/hipo/" class="tag-cloud-link tag-link-57 tag-link-position-19" style="font-size: 8pt;" aria-label="HIPO (1 item)">HIPO</a>
+<a href="https://www.ncsa.illinois.edu/tag/hpc-operations/" class="tag-cloud-link tag-link-20 tag-link-position-20" style="font-size: 18.754966887417pt;" aria-label="HPC Operations (28 items)">HPC Operations</a>
+<a href="https://www.ncsa.illinois.edu/tag/industry/" class="tag-cloud-link tag-link-38 tag-link-position-21" style="font-size: 16.900662251656pt;" aria-label="Industry (17 items)">Industry</a>
+<a href="https://www.ncsa.illinois.edu/tag/industry-partner-program/" class="tag-cloud-link tag-link-58 tag-link-position-22" style="font-size: 8pt;" aria-label="Industry Partner Program (1 item)">Industry Partner Program</a>
+<a href="https://www.ncsa.illinois.edu/tag/institutional-partnerships/" class="tag-cloud-link tag-link-40 tag-link-position-23" style="font-size: 22pt;" aria-label="Institutional Partnerships (63 items)">Institutional Partnerships</a>
+<a href="https://www.ncsa.illinois.edu/tag/integrated-cyberinfrastructure/" class="tag-cloud-link tag-link-53 tag-link-position-24" style="font-size: 16.158940397351pt;" aria-label="Integrated Cyberinfrastructure (14 items)">Integrated Cyberinfrastructure</a>
+<a href="https://www.ncsa.illinois.edu/tag/mbdh/" class="tag-cloud-link tag-link-41 tag-link-position-25" style="font-size: 9.6688741721854pt;" aria-label="MBDH (2 items)">MBDH</a>
+<a href="https://www.ncsa.illinois.edu/tag/modeling-and-simulation/" class="tag-cloud-link tag-link-22 tag-link-position-26" style="font-size: 18.013245033113pt;" aria-label="Modeling and Simulation (23 items)">Modeling and Simulation</a>
+<a href="https://www.ncsa.illinois.edu/tag/networking/" class="tag-cloud-link tag-link-23 tag-link-position-27" style="font-size: 13.099337748344pt;" aria-label="Networking (6 items)">Networking</a>
+<a href="https://www.ncsa.illinois.edu/tag/software-and-applications/" class="tag-cloud-link tag-link-25 tag-link-position-28" style="font-size: 20.145695364238pt;" aria-label="Software and Applications (40 items)">Software and Applications</a>
+<a href="https://www.ncsa.illinois.edu/tag/storage/" class="tag-cloud-link tag-link-26 tag-link-position-29" style="font-size: 11.708609271523pt;" aria-label="Storage (4 items)">Storage</a>
+<a href="https://www.ncsa.illinois.edu/tag/students/" class="tag-cloud-link tag-link-39 tag-link-position-30" style="font-size: 19.311258278146pt;" aria-label="Students (32 items)">Students</a>
+<a href="https://www.ncsa.illinois.edu/tag/user-services/" class="tag-cloud-link tag-link-28 tag-link-position-31" style="font-size: 13.099337748344pt;" aria-label="User Services (6 items)">User Services</a>
+<a href="https://www.ncsa.illinois.edu/tag/user-support/" class="tag-cloud-link tag-link-29 tag-link-position-32" style="font-size: 12.450331125828pt;" aria-label="User Support (5 items)">User Support</a>
+<a href="https://www.ncsa.illinois.edu/tag/visualization/" class="tag-cloud-link tag-link-30 tag-link-position-33" style="font-size: 17.827814569536pt;" aria-label="Visualization (22 items)">Visualization</a>
+<a href="https://www.ncsa.illinois.edu/tag/xsede/" class="tag-cloud-link tag-link-43 tag-link-position-34" style="font-size: 16.158940397351pt;" aria-label="XSEDE (14 items)">XSEDE</a></p></div></div>
+</section><section class="widget block-12 widget_block">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<h3 class="section-title">News Archive</h3>
+<div class=" wp-block-archives-dropdown wp-block-archives"><label for="wp-block-archives-3" class="wp-block-archives__label">Archives</label>
+<select id="wp-block-archives-3" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
+<option value="">Select Month</option>	<option value='https://www.ncsa.illinois.edu/2022/12/'> December 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/11/'> November 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/10/'> October 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/09/'> September 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/08/'> August 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/07/'> July 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/06/'> June 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/05/'> May 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/04/'> April 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/03/'> March 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/02/'> February 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2022/01/'> January 2022 </option>
+<option value='https://www.ncsa.illinois.edu/2021/12/'> December 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/11/'> November 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/10/'> October 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/09/'> September 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/08/'> August 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/07/'> July 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/06/'> June 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/05/'> May 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/04/'> April 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/03/'> March 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/02/'> February 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2021/01/'> January 2021 </option>
+<option value='https://www.ncsa.illinois.edu/2020/12/'> December 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/11/'> November 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/10/'> October 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/09/'> September 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/08/'> August 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/06/'> June 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/05/'> May 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/04/'> April 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/03/'> March 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/02/'> February 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2020/01/'> January 2020 </option>
+<option value='https://www.ncsa.illinois.edu/2019/12/'> December 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2019/11/'> November 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2019/10/'> October 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2019/09/'> September 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2019/08/'> August 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2019/05/'> May 2019 </option>
+<option value='https://www.ncsa.illinois.edu/2018/05/'> May 2018 </option>
+<option value='https://www.ncsa.illinois.edu/2018/02/'> February 2018 </option>
+<option value='https://www.ncsa.illinois.edu/2016/02/'> February 2016 </option>
+<option value='https://www.ncsa.illinois.edu/2014/04/'> April 2014 </option>
+<option value='https://www.ncsa.illinois.edu/2010/11/'> November 2010 </option>
+<option value='https://www.ncsa.illinois.edu/2006/03/'> March 2006 </option>
+<option value='https://www.ncsa.illinois.edu/2004/11/'> November 2004 </option>
+<option value='https://www.ncsa.illinois.edu/2003/05/'> May 2003 </option>
+<option value='https://www.ncsa.illinois.edu/2001/08/'> August 2001 </option>
+<option value='https://www.ncsa.illinois.edu/1999/08/'> August 1999 </option>
+<option value='https://www.ncsa.illinois.edu/1998/11/'> November 1998 </option>
+<option value='https://www.ncsa.illinois.edu/1992/01/'> January 1992 </option>
+<option value='https://www.ncsa.illinois.edu/1991/01/'> January 1991 </option>
+<option value='https://www.ncsa.illinois.edu/1989/07/'> July 1989 </option>
+</select></div></div></div>
+</section>            </aside>
+</div>
+</div>
+</article>
+<div class="row news-signup">
+<section class="calls-to-action">
+<div class="container p-0">
+<div class="row cta-items-1">
+<div class="col">
+<div class="container">
+<div class="cta row flex-column" style="background-image:url(https://www.ncsa.illinois.edu/wp-content/uploads/2021/08/int-cyber-inf-3.jpg)">
+<div class="col cta__text">
+<h3 class="cta__title">Receive NCSA news &#038; events updates in your email inbox</h3>
+</div>
+<div class="col cta__button">   
+<a href="https://groups.webservices.illinois.edu/subscribe/18198" class="btn btn--drift">Subscribe</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>            </div>
+</main>
+</div>
+</div>
+    <footer class="site-footer">
+<div class="user-support-section text-center">
+<div class="container">
+<h3 class="user-support__header">Help Desk is available 24 hours a day, seven days a week, 365 days a year.</h3>
+<a class="btn btn--orange user-support__btn" href="https://www.ncsa.illinois.edu/expertise/user-services/user-support/">Get User Support</a>
+</div>
+</div>
+<div class="container">
+<div class="row footer-top row-cols-1 row-cols-md-2">
+<div class="col">
+<nav class="nav__footer-left">
+<div class="menu-footer-left-container"><ul id="menu-footer-left" class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li  id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/for-students/" class="nav-link"><span itemprop="name">For Students</span></a></li>
+<li  id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/for-researchers/" class="nav-link"><span itemprop="name">For Researchers</span></a></li>
+<li  id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/for-industry-partners/" class="nav-link"><span itemprop="name">For Industry Partners</span></a></li>
+</ul></div>
+</nav>
+<div class="footer-content">
+<p>NCSA is a hub of trans-disciplinary research and digital scholarship. We partner with the University<br />
+of Illinois and the world.</p>
+<p>Don’t know where to start?<br />
+<a href="/about/contact/">CONTACT US</a></p>
+</div>
+</div>
+<div class="col">
+<nav class="nav__footer-right">
+<div class="menu-footer-right-container"><ul id="menu-footer-right" class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li  id="menu-item-1259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1259 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/news-events/tours/" class="nav-link"><span itemprop="name">Book a Tour</span></a></li>
+<li  id="menu-item-235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-235 nav-item"><a itemprop="url" href="https://groups.webservices.illinois.edu/subscribe/18198" class="nav-link"><span itemprop="name">Subscribe to News &#038; Events</span></a></li>
+<li  id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/about/careers/" class="nav-link"><span itemprop="name">Find Career Opportunities</span></a></li>
+<li  id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255 nav-item"><a itemprop="url" href="https://www.ncsa.illinois.edu/ncsa-a-z/" class="nav-link"><span itemprop="name">NCSA A-Z</span></a></li>
+</ul></div>
+</nav>
+<ul class="social-media-links">
+<li><a href="https://twitter.com/NCSAatIllinois" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/NCSAatIllinois" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a></li>
+<li><a href="https://www.instagram.com/ncsaatillinois/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>
+<li><a href="https://www.facebook.com/NCSAatIllinois" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://www.linkedin.com/company/ncsaatillinois/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a></li>
+<li><a href="/feed/"><i class="fa fa-rss"></i></a></li>
+</ul>
+</div>
+</div>
+<hr />
+<div class="row footer-bottom">
+<div class="col-12 col-md">
+<img src="https://www.ncsa.illinois.edu/wp-content/themes/ncsa/dist/images/urbana-champaign-logo.png" alt="University of Illinois Urbana-Champaign Logo" class="footer-logo" />
+</div>
+<div class="col-12 col-md-5">
+<address class="ncsa-address">
+<p>National Center for Supercomputing Applications<br />
+1205 W Clark Street, Urbana, IL 61801<br />
+<a role="link" href="mailto:info@ncsa.illinois.edu">info@ncsa.illinois.edu</a></p>
+</address>
+</div>
+<div class="col-12 col-md-5">
+<div class="copyright-label">
+All rights reserved. ©2021 Board of Trustees of the University of Illinois <br />
+<a href="https://www.vpaa.uillinois.edu/resources/web_privacy" target="_blank" rel="noopener noreferrer">Web Privacy Notice</a> &nbsp; | &nbsp; <!-- OneTrust Cookies Settings button start -->
+<button id="ot-sdk-btn" class="ot-sdk-show-settings">About Cookies</button>
+<!-- OneTrust Cookies Settings button end -->
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a href="#0" class="back-to-top">
+<i class="fas fa-arrow-up" aria-hidden="true"></i>
+<span class="back-to-top__text">Back to top</span>
+</a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCJZ4Q8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    <script type='text/javascript' src='https://www.ncsa.illinois.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6' id='page-links-to-js'></script>
+<script type='text/javascript' src='https://www.ncsa.illinois.edu/wp-content/themes/ncsa/dist/scripts/main.js' id='sage/main.js-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.65287399291992 seconds, on 09-12-22 11:01:56 -->

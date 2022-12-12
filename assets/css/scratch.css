@@ -1,0 +1,117 @@
+body {
+    background-color: lightblue;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.main {
+    padding-left: 18%;
+    padding-right: 2%
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    font-size: 7em;
+    font-family: 'Rubik Microbe', cursive;
+    color: darkblue;
+    text-align: center;   
+}
+
+h2 {
+    font-size: 4em;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#definition {
+    font-size: 3em;
+    text-align: center;
+    font-style: italic;
+    color: rgb(74, 74, 74);
+}
+
+p {
+    font-size: 2em;
+}
+
+#diagram {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.applications {
+    font-size: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    align-content: space-between;
+}
+
+#viz1670819417439 {
+    width: 50%;
+    height: 50%;
+    padding-left: 10%;
+    padding-top: 2.5%;
+    text-align: center;
+    text-decoration: underline;
+    font-size: .75em;
+    line-height: 50px;
+}
+
+.quotes li {
+    list-style-type: none;
+    font-size: 2em;
+    text-align: center;
+    padding: 2%;
+}
+
+.resources {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    align-content: space-between;
+}
+
+.resources li {
+    font-size: 2em;
+}
+
+.resources li a {
+    color: darkblue
+}
+
+.resources .video {
+    padding-left: 100px;
+    padding-bottom: 200px;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: rgb(150, 150, 150);
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+  }
+  
+  #navbar li a {
+    display: block;
+    color: black;
+    padding: 16px 16px;
+    text-decoration: none;
+  }
+  
+  #navbar li a:hover {
+    background-color: #555;
+    color: white;
+  }
